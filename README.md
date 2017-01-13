@@ -8,6 +8,7 @@ Programadores
 =============
 Referido a todo lo que tenga que ver con el diseño del codigo
 +JHON RODRIGUEZ
++Isaac Barragan
 Efectos y animaciones
 =====================
 Referido a todo lo que tiene que ver con efectos de voces, efectos en animaciones como ser ganar o perder
